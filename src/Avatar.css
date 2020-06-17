@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+*{
+    font-family: 'Gugi', cursive;
+}
+
+.avatarstyle img {
+    width: 200px;
+    height: 200px;
+}
+
+.avatarstyle{
+    background-color: #cd56cd;
+    max-width: 240px;
+    min-height: 300px;
+    margin: 30px;
+}
+
+.heading{
+    background-color: black;
+    color: blanchedalmond;
+    padding: 20px;
+}
+
+.b1{
+    background-color: black;
+    color: #cd56cd;
+}
+.b1:hover{
+    background-color: #cd56cd;
+    color: black;
+}
+
+h1{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+p{
+    font-size: 20px;
+    font-weight: 500;
+}
